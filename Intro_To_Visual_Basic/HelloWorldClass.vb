@@ -1,4 +1,6 @@
-﻿Public Class HelloWorldClass
+﻿Imports System.Collections.Generic
+
+Public Class HelloWorldClass
     Private hello_string As String
 
     Property HelloString As String
@@ -15,5 +17,10 @@
             Return hello_string.Length
         End Get
     End Property
+
+    Public Function hello_func() As List(Of String)
+        Dim hello_list As New List(Of String) From {"hello", " ", "world", "!"}
+        Return hello_list
+    End Function
 
 End Class
