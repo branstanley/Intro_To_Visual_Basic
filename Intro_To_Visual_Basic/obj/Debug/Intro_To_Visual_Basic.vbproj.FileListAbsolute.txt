@@ -1,0 +1,5 @@
+C:\Users\Outsider\Documents\GitHub\Intro_To_Visual_Basic\Intro_To_Visual_Basic\bin\Debug\Intro_To_Visual_Basic.exe.config
+C:\Users\Outsider\Documents\GitHub\Intro_To_Visual_Basic\Intro_To_Visual_Basic\bin\Debug\Intro_To_Visual_Basic.exe
+C:\Users\Outsider\Documents\GitHub\Intro_To_Visual_Basic\Intro_To_Visual_Basic\bin\Debug\Intro_To_Visual_Basic.pdb
+C:\Users\Outsider\Documents\GitHub\Intro_To_Visual_Basic\Intro_To_Visual_Basic\obj\Debug\Intro_To_Visual_Basic.exe
+C:\Users\Outsider\Documents\GitHub\Intro_To_Visual_Basic\Intro_To_Visual_Basic\obj\Debug\Intro_To_Visual_Basic.pdb
