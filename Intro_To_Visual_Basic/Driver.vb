@@ -1,6 +1,7 @@
 ﻿Module Hello
     Sub Main()
-        ' Setting a variable
+        ' Setting variables
+        Dim index As Integer = 0
         Dim someVar As String = "Hello world!"
         ' Creating a class
         Dim hello_world_class As HelloWorldClass = New HelloWorldClass()
@@ -29,6 +30,18 @@
             Console.Write(i & " ")
         Next
         Console.WriteLine()
+
+        While index <= 10
+            If index Mod 3 Then
+                Console.Write("Mod 3")
+            ElseIf index Mod 4 Then
+                Console.Write("Mod 4")
+            Else
+                Console.Write("No mod")
+            End If
+            index += 1
+            Console.WriteLine()
+        End While
 
     End Sub
 End Module
